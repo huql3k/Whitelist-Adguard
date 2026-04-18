@@ -349,6 +349,7 @@
 @@|api.doorman.fsapi.com^$important
 @@|api.dropbox.com^$important
 @@|api.dso.docker.com^$important
+@@|api.dashlane.com^$important
 @@|api.epicgames.dev^$important
 @@|api.eset.com^$important
 @@|api.evernote.com^$important
