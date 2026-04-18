@@ -3160,6 +3160,7 @@
 @@|otn*.samsungcloudcdn.com^$important
 @@|otnprd*.samsungcloudsolution.net^$important
 @@|ott-samsung.tubitv.com^$important
+@@|othqfybiq.in^$important
 @@|ouo.io^$important
 @@|ouo.press^$important
 @@|outlook-*.cdn.office.net^$important
