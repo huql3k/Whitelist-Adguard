@@ -607,8 +607,6 @@
 @@|bc.vc^$important
 @@|bcvc.live^$important
 @@|bdwm.be^$important
-@@|beacons.gcp.gvt2.com^$important
-@@|beacons.gvt2.com^$important
 @@|beakpee.com^$important
 @@|beeftext.org^$important
 @@|behindthevoiceactors.com^$important
